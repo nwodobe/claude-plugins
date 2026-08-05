@@ -1,0 +1,16 @@
+{
+  "name": "orchestrateur-dev",
+  "version": "0.1.0",
+  "description": "Orchestrateur de qualite applicative : 5 agents specialises (design UI, UX/navigation, tests, audit, correction automatique encadree) pour applications web (React/Next/Vue) et mobiles (Flutter/React Native).",
+  "author": {
+    "name": "KOUASSI Innocent"
+  },
+  "keywords": [
+    "qualite",
+    "tests",
+    "audit",
+    "design",
+    "ux",
+    "correction"
+  ]
+}
