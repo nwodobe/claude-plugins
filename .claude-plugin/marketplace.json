@@ -1,0 +1,13 @@
+{
+  "name": "kouassi-plugins",
+    "owner": {
+        "name": "KOUASSI Innocent"
+          },
+            "plugins": [
+                {
+                      "name": "orchestrateur-dev",
+                            "source": "./plugins/orchestrateur-dev",
+                                  "description": "Orchestrateur de qualite applicative : 5 agents specialises (design UI, UX/navigation, tests, audit, correction automatique encadree) pour applications web (React/Next/Vue) et mobiles (Flutter/React Native)."
+                                      }
+                                        ]
+                                        }
